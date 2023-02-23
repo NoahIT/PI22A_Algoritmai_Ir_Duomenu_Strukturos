@@ -11,3 +11,7 @@
 📙 Stack Data Structure Vizualization
 
 ![Stack_Data_Structure_pic](https://user-images.githubusercontent.com/78691849/220907965-888f798a-26e3-47a9-a18b-b43415a6ffb8.png)
+
+📙 Looped linked List Vizualization
+
+![Cirrcular_Linked_List_pic](https://user-images.githubusercontent.com/78691849/220926047-c9a76d64-9066-4735-bfaf-61583e3cc9d9.png)
