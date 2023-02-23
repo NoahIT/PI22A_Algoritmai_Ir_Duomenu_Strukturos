@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nojus_Raščius_K1_Programa3", "Nojus_Raščius_K1_Programa3\Nojus_Raščius_K1_Programa3.vcxproj", "{C093520C-3067-4322-A83A-9D0410992729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C093520C-3067-4322-A83A-9D0410992729}.Debug|x64.ActiveCfg = Debug|x64
+		{C093520C-3067-4322-A83A-9D0410992729}.Debug|x64.Build.0 = Debug|x64
+		{C093520C-3067-4322-A83A-9D0410992729}.Debug|x86.ActiveCfg = Debug|Win32
+		{C093520C-3067-4322-A83A-9D0410992729}.Debug|x86.Build.0 = Debug|Win32
+		{C093520C-3067-4322-A83A-9D0410992729}.Release|x64.ActiveCfg = Release|x64
+		{C093520C-3067-4322-A83A-9D0410992729}.Release|x64.Build.0 = Release|x64
+		{C093520C-3067-4322-A83A-9D0410992729}.Release|x86.ActiveCfg = Release|Win32
+		{C093520C-3067-4322-A83A-9D0410992729}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30902BED-FC5F-4742-A88F-D1758FC89BB2}
+	EndGlobalSection
+EndGlobal
