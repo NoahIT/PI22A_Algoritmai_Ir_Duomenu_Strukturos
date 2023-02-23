@@ -1,0 +1,16 @@
+﻿Uzduotis:
+
+1.	Skaičiai a1, a2, … , an surašyti į sąrašą. Jeigu seka yra nemažėjanti (a1 ≤ a2 ≤ … ≤ an), 
+tai palikti ją be pakeitimo. Priešingu atveju sukurti sąrašą į kurį bus įrašyti skaičiai an, an-1, … , a1.
+
+2.	Duotas sveikas skaičius n. Simboliai s1, s2, … , sn surašyti į sąrašą. Žinoma, kad tarp 
+jų yra vienas tarpas. Tarkime jo pozicija yra m, t.y. sm yra tarpas. Sukurti kitą sąrašą, 
+kuriame būtų simboliai sm+1, sm+2, …, sn, s1, …, sm.
+
+3.	Parašyti programą, kuri įterpia į sukurto sąrašo L pabaigą visus sąrašo elementus, kurie 
+yra prieš elementą E, jei toks elementas egzistuoja.
+
+4.	Sukurti sveikų skaičių sąrašą. Panaikinti iš jo kiekvieną elementą, esantį po skaičiaus 8. 
+
+
+Pastaba. Atliekant užduotis reikia nenaudoti masyvų.
